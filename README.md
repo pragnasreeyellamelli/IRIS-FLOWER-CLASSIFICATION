@@ -82,7 +82,7 @@ Confusion Matrix
 Classification Report
 
 **Live Demo**
-https://iris-flower-classification-bym37ghcczuqydneaqvazz.streamlit.app/
+http://localhost:8502/
 
 
 ✅** Result**
